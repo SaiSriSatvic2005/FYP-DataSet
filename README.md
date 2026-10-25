@@ -1,5 +1,6 @@
 # Multilingual Sign Language Avatar & Gesture Dataset (ISL, DGS, ASL/WLASL)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23642173.svg)](https://doi.org/10.5281/zenodo.23642173)
 [![Release](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/SaiSriSatvic2005/FYP-DataSet/releases)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
 [![Repository](https://img.shields.io/badge/GitHub-FYP--DataSet-success.svg)](https://github.com/SaiSriSatvic2005/FYP-DataSet)
@@ -11,6 +12,7 @@ Comprehensive open research dataset accompanying the **Hybrid V7/V8 Multilingual
 ## 📌 Public Repository Link
 
 * **GitHub Repository**: [https://github.com/SaiSriSatvic2005/FYP-DataSet](https://github.com/SaiSriSatvic2005/FYP-DataSet)
+* **Official DOI Record**: [https://doi.org/10.5281/zenodo.23642173](https://doi.org/10.5281/zenodo.23642173)
 * **Clone URL**:
   ```bash
   git clone https://github.com/SaiSriSatvic2005/FYP-DataSet.git
