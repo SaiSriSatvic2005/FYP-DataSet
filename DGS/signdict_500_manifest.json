@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 2,
+    "word": "Koch",
+    "type": "word",
+    "filename": "2_Koch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LWCt1IzT-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 3,
+    "word": "Zug fahren",
+    "type": "word",
+    "filename": "3_Zug_fahren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ut3naL6H-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 4,
+    "word": "Aachen",
+    "type": "word",
+    "filename": "4_Aachen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1O66Slav-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 5,
+    "word": "Abend",
+    "type": "word",
+    "filename": "5_Abend.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hXa37sNX-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 8,
+    "word": "Abteilungen",
+    "type": "word",
+    "filename": "8_Abteilungen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qeVrFRFM-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 17,
+    "word": "80",
+    "type": "word",
+    "filename": "17_80.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LXVSzUU2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 19,
+    "word": "Addition, addieren",
+    "type": "word",
+    "filename": "19_Addition,_addieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2KikjIsk-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 20,
+    "word": "Administrator",
+    "type": "word",
+    "filename": "20_Administrator.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hGorJaZU-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 22,
+    "word": "Affe",
+    "type": "word",
+    "filename": "22_Affe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/16VpAPJg-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 23,
+    "word": "Afghanistan",
+    "type": "word",
+    "filename": "23_Afghanistan.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UZ2REEii-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 24,
+    "word": "Akte",
+    "type": "word",
+    "filename": "24_Akte.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UqJzNkaJ-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 25,
+    "word": "Alkohol",
+    "type": "word",
+    "filename": "25_Alkohol.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BoZ8rV16-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 26,
+    "word": "Allein",
+    "type": "word",
+    "filename": "26_Allein.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qEOHiMTg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 27,
+    "word": "Allergie",
+    "type": "word",
+    "filename": "27_Allergie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/EA73dgXq-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 28,
+    "word": "Alles",
+    "type": "word",
+    "filename": "28_Alles.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/yRpHtP6d-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 29,
+    "word": "Amerika",
+    "type": "word",
+    "filename": "29_Amerika.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/c2boTLSq-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 30,
+    "word": "Amsterdam",
+    "type": "word",
+    "filename": "30_Amsterdam.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hsgy5cdx-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 31,
+    "word": "Anerkennung",
+    "type": "word",
+    "filename": "31_Anerkennung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2PEfttvp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 32,
+    "word": "Anfangen",
+    "type": "word",
+    "filename": "32_Anfangen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/eZRKSROe-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 34,
+    "word": "Annehmen",
+    "type": "word",
+    "filename": "34_Annehmen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/DvihYbLr-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 36,
+    "word": "Anstrengend",
+    "type": "word",
+    "filename": "36_Anstrengend.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/fwmk8HEq-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 39,
+    "word": "Anzahlung",
+    "type": "word",
+    "filename": "39_Anzahlung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Mpp6sPvd-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 40,
+    "word": "Apfel",
+    "type": "word",
+    "filename": "40_Apfel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3DgNYtec-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 41,
+    "word": "Apotheke",
+    "type": "word",
+    "filename": "41_Apotheke.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/DdxGsveS-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 42,
+    "word": "April",
+    "type": "word",
+    "filename": "42_April.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ulHuVEyk-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 43,
+    "word": "Arbeit",
+    "type": "word",
+    "filename": "43_Arbeit.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WIhq8C7T-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 45,
+    "word": "Arbeitslos",
+    "type": "word",
+    "filename": "45_Arbeitslos.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7KH7sUw3-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 46,
+    "word": "Argentinien",
+    "type": "word",
+    "filename": "46_Argentinien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/036DJH0f-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 47,
+    "word": "Argument",
+    "type": "word",
+    "filename": "47_Argument.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/H4WY2LLv-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 48,
+    "word": "Arzt",
+    "type": "word",
+    "filename": "48_Arzt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WoKUuWYW-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 49,
+    "word": "Asien",
+    "type": "word",
+    "filename": "49_Asien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cgQ7hAqV-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 50,
+    "word": "Asthma",
+    "type": "word",
+    "filename": "50_Asthma.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XUHWeDyJ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 51,
+    "word": "Atembeschwerden",
+    "type": "word",
+    "filename": "51_Atembeschwerden.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/eRKx9jCb-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 52,
+    "word": "Athen",
+    "type": "word",
+    "filename": "52_Athen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dfywoWEP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 55,
+    "word": "Aufstehen",
+    "type": "word",
+    "filename": "55_Aufstehen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aqvU5H23-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 56,
+    "word": "Auftrag",
+    "type": "word",
+    "filename": "56_Auftrag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1km14RGl-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 57,
+    "word": "Augsburg",
+    "type": "word",
+    "filename": "57_Augsburg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/IywHX1vp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 58,
+    "word": "August",
+    "type": "word",
+    "filename": "58_August.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xB31MoVU-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 59,
+    "word": "Ausbildung",
+    "type": "word",
+    "filename": "59_Ausbildung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SCtFIhBJ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 60,
+    "word": "Aussteigen",
+    "type": "word",
+    "filename": "60_Aussteigen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0yLFU2f4-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 61,
+    "word": "Auto",
+    "type": "word",
+    "filename": "61_Auto.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ERsa5Sba-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 62,
+    "word": "Auto fahren",
+    "type": "word",
+    "filename": "62_Auto_fahren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vpqFX6YA-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 63,
+    "word": "Automat",
+    "type": "word",
+    "filename": "63_Automat.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/sguWckS2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 66,
+    "word": "Blume",
+    "type": "word",
+    "filename": "66_Blume.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UbfCbMbE-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 67,
+    "word": "Badminton",
+    "type": "word",
+    "filename": "67_Badminton.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2pUWMbs8-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 68,
+    "word": "Bär",
+    "type": "word",
+    "filename": "68_Bär.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/uMmsHzgf-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 69,
+    "word": "Bahamas",
+    "type": "word",
+    "filename": "69_Bahamas.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/5hw885oT-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 71,
+    "word": "Banane",
+    "type": "word",
+    "filename": "71_Banane.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wpuFNXge-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 72,
+    "word": "Basketball",
+    "type": "word",
+    "filename": "72_Basketball.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Ru3P5NY8-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 73,
+    "word": "Bauchschmerzen",
+    "type": "word",
+    "filename": "73_Bauchschmerzen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lSvtQ1j8-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 74,
+    "word": "Bauer",
+    "type": "word",
+    "filename": "74_Bauer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/RKENS2WC-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 75,
+    "word": "Bayern",
+    "type": "word",
+    "filename": "75_Bayern.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GFHof8MP-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 76,
+    "word": "Bäcker",
+    "type": "word",
+    "filename": "76_Bäcker.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VWyzzyaa-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 77,
+    "word": "Beachvolleyball",
+    "type": "word",
+    "filename": "77_Beachvolleyball.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aKOM8dBW-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 78,
+    "word": "Bearbeiten",
+    "type": "word",
+    "filename": "78_Bearbeiten.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LrYff37h-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 79,
+    "word": "Bedienen",
+    "type": "word",
+    "filename": "79_Bedienen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Lzt3LJkX-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 80,
+    "word": "Bedienung",
+    "type": "word",
+    "filename": "80_Bedienung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Zj3iyFIf-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 81,
+    "word": "Bedingung",
+    "type": "word",
+    "filename": "81_Bedingung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/w4hiRnUC-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 82,
+    "word": "Beenden",
+    "type": "word",
+    "filename": "82_Beenden.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/akdDeb7a-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 83,
+    "word": "Begleiten",
+    "type": "word",
+    "filename": "83_Begleiten.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2V1oecHs-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 85,
+    "word": "Beispiel",
+    "type": "word",
+    "filename": "85_Beispiel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/oCJf7dWx-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 86,
+    "word": "Belgien",
+    "type": "word",
+    "filename": "86_Belgien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7q8ayrxr-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 87,
+    "word": "Belize",
+    "type": "word",
+    "filename": "87_Belize.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/MgdTthF0-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 88,
+    "word": "Belohnung",
+    "type": "word",
+    "filename": "88_Belohnung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/U1h0qs33-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 90,
+    "word": "Berlin",
+    "type": "word",
+    "filename": "90_Berlin.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3tSKPM2A-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 92,
+    "word": "Bermuda",
+    "type": "word",
+    "filename": "92_Bermuda.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/n9VFqw3Z-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 93,
+    "word": "Bern",
+    "type": "word",
+    "filename": "93_Bern.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/5GvXAbTS-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 94,
+    "word": "Beruf",
+    "type": "word",
+    "filename": "94_Beruf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YCiLIpaK-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 95,
+    "word": "Bescheid sagen",
+    "type": "word",
+    "filename": "95_Bescheid_sagen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6FdKnVfq-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 97,
+    "word": "Betreuer",
+    "type": "word",
+    "filename": "97_Betreuer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4dhs0Ww4-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 98,
+    "word": "Betrieb",
+    "type": "word",
+    "filename": "98_Betrieb.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TBHkQggA-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 99,
+    "word": "Bewerbung",
+    "type": "word",
+    "filename": "99_Bewerbung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gtWFHP5I-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 100,
+    "word": "Bewusstlos",
+    "type": "word",
+    "filename": "100_Bewusstlos.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BFZKkNpt-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 101,
+    "word": "Bielefeld",
+    "type": "word",
+    "filename": "101_Bielefeld.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/PyIlxNci-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 102,
+    "word": "Bier",
+    "type": "word",
+    "filename": "102_Bier.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/FxFXSYTv-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 103,
+    "word": "Bildtelefon",
+    "type": "word",
+    "filename": "103_Bildtelefon.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SZ3oxO9r-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 104,
+    "word": "Bildung",
+    "type": "word",
+    "filename": "104_Bildung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LVavE3TS-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 106,
+    "word": "Biologie",
+    "type": "word",
+    "filename": "106_Biologie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/zE64oVJJ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 108,
+    "word": "Bis bald",
+    "type": "word",
+    "filename": "108_Bis_bald.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BrLUlAvH-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 110,
+    "word": "Bitte",
+    "type": "word",
+    "filename": "110_Bitte.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/HIngi2pL-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 111,
+    "word": "Bitte",
+    "type": "word",
+    "filename": "111_Bitte.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0Wwq94qo-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 112,
+    "word": "blau",
+    "type": "word",
+    "filename": "112_blau.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2w4dW8He-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 113,
+    "word": "Blutdruck",
+    "type": "word",
+    "filename": "113_Blutdruck.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/KGFhfBXN-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 114,
+    "word": "Blutgruppe",
+    "type": "word",
+    "filename": "114_Blutgruppe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/F7kRj1P1-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 115,
+    "word": "Blutzucker",
+    "type": "word",
+    "filename": "115_Blutzucker.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aB0Bo7gP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 116,
+    "word": "Bochum",
+    "type": "word",
+    "filename": "116_Bochum.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NYWguPwR-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 117,
+    "word": "Bonn",
+    "type": "word",
+    "filename": "117_Bonn.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/EbpJRxLe-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 118,
+    "word": "Boxen",
+    "type": "word",
+    "filename": "118_Boxen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6MsHf90c-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 120,
+    "word": "Bremen",
+    "type": "word",
+    "filename": "120_Bremen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wNRUMCyl-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 121,
+    "word": "Brief",
+    "type": "word",
+    "filename": "121_Brief.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VsONtciw-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 122,
+    "word": "Bruder",
+    "type": "word",
+    "filename": "122_Bruder.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/l5nCRsX6-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 123,
+    "word": "Buch",
+    "type": "word",
+    "filename": "123_Buch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/mMyPBroi-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 124,
+    "word": "Bund",
+    "type": "word",
+    "filename": "124_Bund.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UPv6SGHW-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 125,
+    "word": "Bus",
+    "type": "word",
+    "filename": "125_Bus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cFOSe3jI-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 126,
+    "word": "Bus fahren",
+    "type": "word",
+    "filename": "126_Bus_fahren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8aItHGq7-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 127,
+    "word": "Butter",
+    "type": "word",
+    "filename": "127_Butter.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LRXXXkbB-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 128,
+    "word": "Camp",
+    "type": "word",
+    "filename": "128_Camp.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/m0Ig8hsh-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 129,
+    "word": "Chef",
+    "type": "word",
+    "filename": "129_Chef.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xqF7CYMU-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 130,
+    "word": "China",
+    "type": "word",
+    "filename": "130_China.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/fyJ28nbc-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 131,
+    "word": "Computer",
+    "type": "word",
+    "filename": "131_Computer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/yNPMeaLD-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 132,
+    "word": "Costa Rica",
+    "type": "word",
+    "filename": "132_Costa_Rica.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/kofG2Swo-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 133,
+    "word": "Cousin",
+    "type": "word",
+    "filename": "133_Cousin.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/HBWzsrGm-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 134,
+    "word": "Cousine",
+    "type": "word",
+    "filename": "134_Cousine.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LKrmVw3X-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 135,
+    "word": "Crosslauf",
+    "type": "word",
+    "filename": "135_Crosslauf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/E6bzBI2i-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 136,
+    "word": "DVD",
+    "type": "word",
+    "filename": "136_DVD.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/OerQK3fn-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 137,
+    "word": "Dagegen",
+    "type": "word",
+    "filename": "137_Dagegen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/V33VJOoh-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 141,
+    "word": "Darf nicht",
+    "type": "word",
+    "filename": "141_Darf_nicht.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/9rvMHnCG-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 142,
+    "word": "Datei",
+    "type": "word",
+    "filename": "142_Datei.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Esd8iMem-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 143,
+    "word": "Datenbank",
+    "type": "word",
+    "filename": "143_Datenbank.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/S4VDuD3R-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 144,
+    "word": "Dänemark",
+    "type": "word",
+    "filename": "144_Dänemark.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/uPIRcodC-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 146,
+    "word": "Delphin",
+    "type": "word",
+    "filename": "146_Delphin.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4Se86OjT-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 147,
+    "word": "Demokratie",
+    "type": "word",
+    "filename": "147_Demokratie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2e2On2D8-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 148,
+    "word": "Demokratisch",
+    "type": "word",
+    "filename": "148_Demokratisch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/yzJ8lhmf-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 149,
+    "word": "Deutschland",
+    "type": "word",
+    "filename": "149_Deutschland.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/E3FBJWYi-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 150,
+    "word": "Dezember",
+    "type": "word",
+    "filename": "150_Dezember.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/jur5hZQJ-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 151,
+    "word": "Diabetes",
+    "type": "word",
+    "filename": "151_Diabetes.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VW4LtwoI-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 152,
+    "word": "Dienstag",
+    "type": "word",
+    "filename": "152_Dienstag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2VK88sln-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 153,
+    "word": "Differenz",
+    "type": "word",
+    "filename": "153_Differenz.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qvdsbNKk-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 154,
+    "word": "Direkt",
+    "type": "word",
+    "filename": "154_Direkt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Kq7IWh6l-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 155,
+    "word": "Direktor",
+    "type": "word",
+    "filename": "155_Direktor.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XchbONza-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 156,
+    "word": "Diskussion",
+    "type": "word",
+    "filename": "156_Diskussion.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Yb0ROzH8-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 157,
+    "word": "Diskuswurf",
+    "type": "word",
+    "filename": "157_Diskuswurf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/x4pdvySF-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 158,
+    "word": "Division",
+    "type": "word",
+    "filename": "158_Division.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3jH9ed9v-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 159,
+    "word": "Doktor",
+    "type": "word",
+    "filename": "159_Doktor.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Cn5rhDl1-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 160,
+    "word": "Dolmetscher",
+    "type": "word",
+    "filename": "160_Dolmetscher.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qDys754Z-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 161,
+    "word": "Dominikanische Republik",
+    "type": "word",
+    "filename": "161_Dominikanische_Republik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WgotEYqb-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 162,
+    "word": "Donnerstag",
+    "type": "word",
+    "filename": "162_Donnerstag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/W1C1rQio-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 163,
+    "word": "Dorf",
+    "type": "word",
+    "filename": "163_Dorf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dVfxQQcy-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 164,
+    "word": "Dortmund",
+    "type": "word",
+    "filename": "164_Dortmund.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/JvKsTIyp-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 165,
+    "word": "30",
+    "type": "word",
+    "filename": "165_30.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GlDkG0Nt-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 166,
+    "word": "Dresden",
+    "type": "word",
+    "filename": "166_Dresden.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8EJpZKWc-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 167,
+    "word": "Droge",
+    "type": "word",
+    "filename": "167_Droge.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0xIw2xj2-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 168,
+    "word": "Drucker",
+    "type": "word",
+    "filename": "168_Drucker.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YY9VRhcr-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 170,
+    "word": "Duisburg",
+    "type": "word",
+    "filename": "170_Duisburg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TQYrRx5h-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 173,
+    "word": "Düsseldorf",
+    "type": "word",
+    "filename": "173_Düsseldorf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YCH0r5Mk-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 175,
+    "word": "Ebene",
+    "type": "word",
+    "filename": "175_Ebene.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ZqHQUOlR-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 177,
+    "word": "Ehemann",
+    "type": "word",
+    "filename": "177_Ehemann.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/filTO3kh-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 178,
+    "word": "Ehrenamt",
+    "type": "word",
+    "filename": "178_Ehrenamt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/E9IXb9JJ-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 179,
+    "word": "Ei",
+    "type": "word",
+    "filename": "179_Ei.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/tL3JIkFc-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 180,
+    "word": "Einfach",
+    "type": "word",
+    "filename": "180_Einfach.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iQ2AQWWo-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 181,
+    "word": "1",
+    "type": "word",
+    "filename": "181_1.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/b3OO3E9V-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 183,
+    "word": "Einstellung",
+    "type": "word",
+    "filename": "183_Einstellung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/5hMXIvjq-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 184,
+    "word": "Eklig",
+    "type": "word",
+    "filename": "184_Eklig.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/t1iSGllV-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 185,
+    "word": "El Salvador",
+    "type": "word",
+    "filename": "185_El_Salvador.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dN4CoghZ-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 186,
+    "word": "Elefant",
+    "type": "word",
+    "filename": "186_Elefant.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/quxG7wkP-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 187,
+    "word": "Elektrotechnik",
+    "type": "word",
+    "filename": "187_Elektrotechnik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/tUgUS87n-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 190,
+    "word": "Eltern",
+    "type": "word",
+    "filename": "190_Eltern.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/nxBKr6CQ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 191,
+    "word": "Elvis Presley",
+    "type": "word",
+    "filename": "191_Elvis_Presley.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/nQIgrobS-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 194,
+    "word": "Ente",
+    "type": "word",
+    "filename": "194_Ente.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hc09PghF-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 195,
+    "word": "Entscheiden",
+    "type": "word",
+    "filename": "195_Entscheiden.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iqGEjKgJ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 196,
+    "word": "Entschuldigung",
+    "type": "word",
+    "filename": "196_Entschuldigung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ilUASGgk-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 197,
+    "word": "Erdbeere",
+    "type": "word",
+    "filename": "197_Erdbeere.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VNPdEhtT-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 198,
+    "word": "Erfurt",
+    "type": "word",
+    "filename": "198_Erfurt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0z6yPuso-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 200,
+    "word": "Ergotherapie",
+    "type": "word",
+    "filename": "200_Ergotherapie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0EB0meM5-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 201,
+    "word": "Erinnern",
+    "type": "word",
+    "filename": "201_Erinnern.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/AA5GB2hg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 202,
+    "word": "Erkennen",
+    "type": "word",
+    "filename": "202_Erkennen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Ete0nLre-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 204,
+    "word": "Erwachsen",
+    "type": "word",
+    "filename": "204_Erwachsen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cEJ3KxSa-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 205,
+    "word": "Euro",
+    "type": "word",
+    "filename": "205_Euro.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ICRo407O-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 208,
+    "word": "Excel",
+    "type": "word",
+    "filename": "208_Excel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Hx0DuXiM-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 209,
+    "word": "Exportieren",
+    "type": "word",
+    "filename": "209_Exportieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Zwx8G6li-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 210,
+    "word": "Fabrik",
+    "type": "word",
+    "filename": "210_Fabrik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/OgGEPaTC-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 211,
+    "word": "Facebook",
+    "type": "word",
+    "filename": "211_Facebook.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/mepawBiR-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 212,
+    "word": "Fach",
+    "type": "word",
+    "filename": "212_Fach.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ayhN8yQp-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 214,
+    "word": "Fahrrad",
+    "type": "word",
+    "filename": "214_Fahrrad.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/CGsZDNxw-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 216,
+    "word": "Familie",
+    "type": "word",
+    "filename": "216_Familie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ukCcSW7d-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 217,
+    "word": "Farbe",
+    "type": "word",
+    "filename": "217_Farbe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Jmx7Mo9m-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 219,
+    "word": "Februar",
+    "type": "word",
+    "filename": "219_Februar.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/P74z2Yql-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 220,
+    "word": "Fehler",
+    "type": "word",
+    "filename": "220_Fehler.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lSCVm2Hb-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 221,
+    "word": "Feiern",
+    "type": "word",
+    "filename": "221_Feiern.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/suBRq8zC-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 222,
+    "word": "Ferien",
+    "type": "word",
+    "filename": "222_Ferien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/O7IrxbiI-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 224,
+    "word": "Festplatte",
+    "type": "word",
+    "filename": "224_Festplatte.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/DxjBWFkm-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 225,
+    "word": "Fieber",
+    "type": "word",
+    "filename": "225_Fieber.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ZHj6MOWJ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 227,
+    "word": "Finnland",
+    "type": "word",
+    "filename": "227_Finnland.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VRwd2yrF-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 228,
+    "word": "Firefox",
+    "type": "word",
+    "filename": "228_Firefox.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1ho1cMsc-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 229,
+    "word": "Firma",
+    "type": "word",
+    "filename": "229_Firma.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xksQBjdn-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 230,
+    "word": "Fisch",
+    "type": "word",
+    "filename": "230_Fisch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YOCQ0mv0-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 231,
+    "word": "Flash",
+    "type": "word",
+    "filename": "231_Flash.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/v7KUhNyN-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 232,
+    "word": "Fleisch",
+    "type": "word",
+    "filename": "232_Fleisch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iZQu3xFX-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 233,
+    "word": "Flensburg",
+    "type": "word",
+    "filename": "233_Flensburg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Tn0TAebB-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 234,
+    "word": "Format",
+    "type": "word",
+    "filename": "234_Format.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GIaqBvbN-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 235,
+    "word": "Formular",
+    "type": "word",
+    "filename": "235_Formular.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BfsPnpkW-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 236,
+    "word": "Fotokamera",
+    "type": "word",
+    "filename": "236_Fotokamera.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/EifgSJnj-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 237,
+    "word": "Fragen",
+    "type": "word",
+    "filename": "237_Fragen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lXe7GZmo-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 239,
+    "word": "Frankreich",
+    "type": "word",
+    "filename": "239_Frankreich.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7qf3kzAX-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 240,
+    "word": "Frau",
+    "type": "word",
+    "filename": "240_Frau.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UJHxQwnm-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 241,
+    "word": "Freiburg",
+    "type": "word",
+    "filename": "241_Freiburg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TsLqClwp-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 242,
+    "word": "Freiheit",
+    "type": "word",
+    "filename": "242_Freiheit.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/PADe0KCg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 243,
+    "word": "Freitag",
+    "type": "word",
+    "filename": "243_Freitag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hrbwcaUQ-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 244,
+    "word": "Freund",
+    "type": "word",
+    "filename": "244_Freund.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bwRqFHgH-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 247,
+    "word": "Friedrichshafen",
+    "type": "word",
+    "filename": "247_Friedrichshafen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/i18NBzcR-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 249,
+    "word": "Frosch",
+    "type": "word",
+    "filename": "249_Frosch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/j1zr2sRV-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 250,
+    "word": "Fulda",
+    "type": "word",
+    "filename": "250_Fulda.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dKoUHr5e-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 251,
+    "word": "Fußball",
+    "type": "word",
+    "filename": "251_Fußball.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7LuXTlA5-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 253,
+    "word": "5",
+    "type": "word",
+    "filename": "253_5.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cWMaSJfq-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 254,
+    "word": "50",
+    "type": "word",
+    "filename": "254_50.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gEGqyhIL-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 255,
+    "word": "Gabel",
+    "type": "word",
+    "filename": "255_Gabel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/nmrcSiFp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 256,
+    "word": "Gans",
+    "type": "word",
+    "filename": "256_Gans.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/RvxNZLD5-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 260,
+    "word": "Gefangennehmen",
+    "type": "word",
+    "filename": "260_Gefangennehmen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/FNbz0N8U-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 261,
+    "word": "Gehalt",
+    "type": "word",
+    "filename": "261_Gehalt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/kBV0ZUHW-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 264,
+    "word": "Geld",
+    "type": "word",
+    "filename": "264_Geld.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/kQbPMxFt-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 265,
+    "word": "Gemeinschaft",
+    "type": "word",
+    "filename": "265_Gemeinschaft.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/o1sAsGqg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 266,
+    "word": "Genehmigung",
+    "type": "word",
+    "filename": "266_Genehmigung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/pzMjSD4W-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 267,
+    "word": "Geocaching",
+    "type": "word",
+    "filename": "267_Geocaching.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6QHv5aI4-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 268,
+    "word": "Georgien",
+    "type": "word",
+    "filename": "268_Georgien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/HOcJTAtg-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 269,
+    "word": "Gesellschaft",
+    "type": "word",
+    "filename": "269_Gesellschaft.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VYzMAvxP-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 270,
+    "word": "Gesetz",
+    "type": "word",
+    "filename": "270_Gesetz.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ct3ht4Dn-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 271,
+    "word": "Geste",
+    "type": "word",
+    "filename": "271_Geste.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/R0wLJUiz-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 274,
+    "word": "Gewitter",
+    "type": "word",
+    "filename": "274_Gewitter.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Xly3ZgGL-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 275,
+    "word": "Gift",
+    "type": "word",
+    "filename": "275_Gift.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vgng4ydk-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 276,
+    "word": "Giraffe",
+    "type": "word",
+    "filename": "276_Giraffe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/tPlm4hGL-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 277,
+    "word": "Gleichung",
+    "type": "word",
+    "filename": "277_Gleichung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/FWlYOmK0-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 278,
+    "word": "Gold",
+    "type": "word",
+    "filename": "278_Gold.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7ELhluLX-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 279,
+    "word": "Google",
+    "type": "word",
+    "filename": "279_Google.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/CW65dfa8-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 280,
+    "word": "Grafik",
+    "type": "word",
+    "filename": "280_Grafik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/OQ3IDjcg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 281,
+    "word": "Grammatik",
+    "type": "word",
+    "filename": "281_Grammatik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NHDGSrNF-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 282,
+    "word": "Griechenland",
+    "type": "word",
+    "filename": "282_Griechenland.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ZpOIuyCN-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 283,
+    "word": "Guatemala",
+    "type": "word",
+    "filename": "283_Guatemala.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SkgIGzQx-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 284,
+    "word": "Gurke",
+    "type": "word",
+    "filename": "284_Gurke.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GbcIhvoV-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 285,
+    "word": "Gut",
+    "type": "word",
+    "filename": "285_Gut.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LXjGKu6W-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 286,
+    "word": "Haben",
+    "type": "word",
+    "filename": "286_Haben.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1nfGjBJ4-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 287,
+    "word": "Haftpflicht",
+    "type": "word",
+    "filename": "287_Haftpflicht.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/12g476Cf-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 288,
+    "word": "Hageln",
+    "type": "word",
+    "filename": "288_Hageln.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8Fa253n1-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 289,
+    "word": "Hahn",
+    "type": "word",
+    "filename": "289_Hahn.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wgtNCoU9-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 290,
+    "word": "Haiti",
+    "type": "word",
+    "filename": "290_Haiti.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/53mctR8K-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 291,
+    "word": "Halbzeit",
+    "type": "word",
+    "filename": "291_Halbzeit.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wu6tr9Cq-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 292,
+    "word": "Halle an der Saale",
+    "type": "word",
+    "filename": "292_Halle_an_der_Saale.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qg5vbXHe-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 293,
+    "word": "Hallo",
+    "type": "word",
+    "filename": "293_Hallo.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wC1ujNXm-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 294,
+    "word": "Hamburg",
+    "type": "word",
+    "filename": "294_Hamburg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/nb5e5AIt-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 295,
+    "word": "Hammerwurf",
+    "type": "word",
+    "filename": "295_Hammerwurf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ksn8Yfaa-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 296,
+    "word": "Hanau",
+    "type": "word",
+    "filename": "296_Hanau.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/zD8HMvvw-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 297,
+    "word": "Handball",
+    "type": "word",
+    "filename": "297_Handball.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gVf8Q60V-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 298,
+    "word": "Handform",
+    "type": "word",
+    "filename": "298_Handform.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/jSeQMH5X-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 299,
+    "word": "Handy",
+    "type": "word",
+    "filename": "299_Handy.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Q9KmvJR0-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 300,
+    "word": "Hannover",
+    "type": "word",
+    "filename": "300_Hannover.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vrtlUq7a-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 301,
+    "word": "Hauptsache",
+    "type": "word",
+    "filename": "301_Hauptsache.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/MeYTU6Ci-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 302,
+    "word": "Hausaufgabe",
+    "type": "word",
+    "filename": "302_Hausaufgabe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/QePIhCe1-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 303,
+    "word": "Heidelberg",
+    "type": "word",
+    "filename": "303_Heidelberg.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/fnp3kYVS-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 304,
+    "word": "Heim",
+    "type": "word",
+    "filename": "304_Heim.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0z2t4exj-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 305,
+    "word": "Heimlich",
+    "type": "word",
+    "filename": "305_Heimlich.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gTV0LYZt-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 308,
+    "word": "Hell",
+    "type": "word",
+    "filename": "308_Hell.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/k5fYkixo-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 309,
+    "word": "Herbst",
+    "type": "word",
+    "filename": "309_Herbst.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/EmOpIRPW-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 310,
+    "word": "Herzinfarkt",
+    "type": "word",
+    "filename": "310_Herzinfarkt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Lk2XF6AF-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 313,
+    "word": "Hi",
+    "type": "word",
+    "filename": "313_Hi.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/u2i7oiRL-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 314,
+    "word": "Himbeere",
+    "type": "word",
+    "filename": "314_Himbeere.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gHKnQwcG-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 315,
+    "word": "Hintergrund",
+    "type": "word",
+    "filename": "315_Hintergrund.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hnAqflV3-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 316,
+    "word": "Hochhaus",
+    "type": "word",
+    "filename": "316_Hochhaus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0oKJHern-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 317,
+    "word": "Hochsprung",
+    "type": "word",
+    "filename": "317_Hochsprung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aOU7x8A5-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 319,
+    "word": "Holen",
+    "type": "word",
+    "filename": "319_Holen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/b3H5MgRH-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 320,
+    "word": "Honduras",
+    "type": "word",
+    "filename": "320_Honduras.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/zo8wueZT-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 321,
+    "word": "Hong Kong",
+    "type": "word",
+    "filename": "321_Hong_Kong.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/OnueRoPu-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 322,
+    "word": "Honig",
+    "type": "word",
+    "filename": "322_Honig.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/MrvJtnRe-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 323,
+    "word": "Hummel",
+    "type": "word",
+    "filename": "323_Hummel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Ahzf40uV-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 324,
+    "word": "Hund",
+    "type": "word",
+    "filename": "324_Hund.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iIYPxuJV-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 325,
+    "word": "Hunger",
+    "type": "word",
+    "filename": "325_Hunger.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4QNWCTSU-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 326,
+    "word": "Husten",
+    "type": "word",
+    "filename": "326_Husten.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bQXjSCvU-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 328,
+    "word": "Importieren",
+    "type": "word",
+    "filename": "328_Importieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/q6XLLA8p-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 329,
+    "word": "Indirekt",
+    "type": "word",
+    "filename": "329_Indirekt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8mqwKCDd-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 330,
+    "word": "Industrie",
+    "type": "word",
+    "filename": "330_Industrie.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/AexXg9NR-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 331,
+    "word": "Informatik",
+    "type": "word",
+    "filename": "331_Informatik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/jr4koB2u-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 332,
+    "word": "Ingenieur",
+    "type": "word",
+    "filename": "332_Ingenieur.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hqPvStNs-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 333,
+    "word": "Interaktion",
+    "type": "word",
+    "filename": "333_Interaktion.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/EApo7QuG-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 336,
+    "word": "Internet",
+    "type": "word",
+    "filename": "336_Internet.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/pSc87TPo-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 337,
+    "word": "Internet Explorer",
+    "type": "word",
+    "filename": "337_Internet_Explorer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ozC4L0Wa-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 338,
+    "word": "Interview",
+    "type": "word",
+    "filename": "338_Interview.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6CNsUnDS-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 339,
+    "word": "Irak",
+    "type": "word",
+    "filename": "339_Irak.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vNhZ6O8V-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 340,
+    "word": "Iran",
+    "type": "word",
+    "filename": "340_Iran.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/PAPouijB-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 341,
+    "word": "Italien",
+    "type": "word",
+    "filename": "341_Italien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/o8VHexsY-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 342,
+    "word": "100",
+    "type": "word",
+    "filename": "342_100.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6nrBTuZd-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 343,
+    "word": "1000",
+    "type": "word",
+    "filename": "343_1000.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/f7VCUAUM-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 344,
+    "word": "11",
+    "type": "word",
+    "filename": "344_11.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iNvpz36w-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 345,
+    "word": "12",
+    "type": "word",
+    "filename": "345_12.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/tSkpCPhF-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 346,
+    "word": "13",
+    "type": "word",
+    "filename": "346_13.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YR7MX6Qn-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 347,
+    "word": "14",
+    "type": "word",
+    "filename": "347_14.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LiaxF5p1-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 348,
+    "word": "15",
+    "type": "word",
+    "filename": "348_15.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1bjLe4dH-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 349,
+    "word": "16:9",
+    "type": "word",
+    "filename": "349_16_9.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SQwZg9qb-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 350,
+    "word": "16",
+    "type": "word",
+    "filename": "350_16.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qxTUgKkX-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 351,
+    "word": "17",
+    "type": "word",
+    "filename": "351_17.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/nnRCdrSQ-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 352,
+    "word": "18",
+    "type": "word",
+    "filename": "352_18.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/H5pgoMzc-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 353,
+    "word": "19",
+    "type": "word",
+    "filename": "353_19.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qHzS1knj-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 354,
+    "word": "20",
+    "type": "word",
+    "filename": "354_20.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/F3gAKeQd-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 355,
+    "word": "21",
+    "type": "word",
+    "filename": "355_21.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TRFS3FJl-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 356,
+    "word": "22",
+    "type": "word",
+    "filename": "356_22.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xKqFlny2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 357,
+    "word": "23",
+    "type": "word",
+    "filename": "357_23.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cYf32UBP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 358,
+    "word": "24",
+    "type": "word",
+    "filename": "358_24.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/D77Eet4y-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 359,
+    "word": "25",
+    "type": "word",
+    "filename": "359_25.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XIMrcsN6-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 360,
+    "word": "26",
+    "type": "word",
+    "filename": "360_26.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/17mNdwty-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 361,
+    "word": "27",
+    "type": "word",
+    "filename": "361_27.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/T8NNQiCj-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 362,
+    "word": "28",
+    "type": "word",
+    "filename": "362_28.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Loa5uKUi-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 363,
+    "word": "29",
+    "type": "word",
+    "filename": "363_29.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TTWpI9Qn-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 364,
+    "word": "31",
+    "type": "word",
+    "filename": "364_31.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/9y2WnSWO-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 365,
+    "word": "32",
+    "type": "word",
+    "filename": "365_32.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YgTlygt2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 366,
+    "word": "33",
+    "type": "word",
+    "filename": "366_33.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ShTpU00L-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 367,
+    "word": "34",
+    "type": "word",
+    "filename": "367_34.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cztpl9sX-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 368,
+    "word": "35",
+    "type": "word",
+    "filename": "368_35.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/so300tpU-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 369,
+    "word": "36",
+    "type": "word",
+    "filename": "369_36.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ZIYpWY2k-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 370,
+    "word": "37",
+    "type": "word",
+    "filename": "370_37.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/9jpuwgov-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 371,
+    "word": "38",
+    "type": "word",
+    "filename": "371_38.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wm6DRSmj-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 372,
+    "word": "39",
+    "type": "word",
+    "filename": "372_39.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xKZjD87e-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 373,
+    "word": "40",
+    "type": "word",
+    "filename": "373_40.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/6lh4lv4i-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 374,
+    "word": "60",
+    "type": "word",
+    "filename": "374_60.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/86cjQFYX-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 375,
+    "word": "70",
+    "type": "word",
+    "filename": "375_70.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/FE1gjCgV-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 376,
+    "word": "90",
+    "type": "word",
+    "filename": "376_90.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/eE2mYobT-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 377,
+    "word": "Ja",
+    "type": "word",
+    "filename": "377_Ja.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NdHTA8Pq-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 378,
+    "word": "Jahr",
+    "type": "word",
+    "filename": "378_Jahr.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qCNAAtWy-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 379,
+    "word": "Januar",
+    "type": "word",
+    "filename": "379_Januar.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bFsL23Sn-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 380,
+    "word": "Japan",
+    "type": "word",
+    "filename": "380_Japan.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Gmq3EsAX-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 381,
+    "word": "Jemen",
+    "type": "word",
+    "filename": "381_Jemen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/syxPA0Nd-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 382,
+    "word": "Job",
+    "type": "word",
+    "filename": "382_Job.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/CP4NXB6y-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 383,
+    "word": "Jugendherberge",
+    "type": "word",
+    "filename": "383_Jugendherberge.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dUMW2vR1-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 384,
+    "word": "Junge",
+    "type": "word",
+    "filename": "384_Junge.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/rBBUaKq3-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 385,
+    "word": "Kabel",
+    "type": "word",
+    "filename": "385_Kabel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SZUBbLhM-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 386,
+    "word": "Kaffee",
+    "type": "word",
+    "filename": "386_Kaffee.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Bvrs3pV3-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 387,
+    "word": "Kanada",
+    "type": "word",
+    "filename": "387_Kanada.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gXOcusSS-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 388,
+    "word": "Kann nicht",
+    "type": "word",
+    "filename": "388_Kann_nicht.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/uTJ3GuOn-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 389,
+    "word": "Kantine",
+    "type": "word",
+    "filename": "389_Kantine.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2Q6HebgA-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 390,
+    "word": "Kapitän",
+    "type": "word",
+    "filename": "390_Kapitän.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/JUv2xoHu-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 392,
+    "word": "Karate",
+    "type": "word",
+    "filename": "392_Karate.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YXIhtLtS-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 393,
+    "word": "Karriere",
+    "type": "word",
+    "filename": "393_Karriere.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/rrOMQCC5-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 395,
+    "word": "Katze",
+    "type": "word",
+    "filename": "395_Katze.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/JypOUj7D-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 398,
+    "word": "Kellner",
+    "type": "word",
+    "filename": "398_Kellner.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/yB42AJCL-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 399,
+    "word": "Kennen",
+    "type": "word",
+    "filename": "399_Kennen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lZhfpiyi-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 401,
+    "word": "Kind",
+    "type": "word",
+    "filename": "401_Kind.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iIlE8QBC-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 403,
+    "word": "Kirsche",
+    "type": "word",
+    "filename": "403_Kirsche.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3S9gRDW8-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 405,
+    "word": "Klappt nicht",
+    "type": "word",
+    "filename": "405_Klappt_nicht.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/AFKspFHX-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 406,
+    "word": "Klasse",
+    "type": "word",
+    "filename": "406_Klasse.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/67oIBDn5-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 408,
+    "word": "Knapp",
+    "type": "word",
+    "filename": "408_Knapp.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/AuAgN4YK-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 409,
+    "word": "Knochenbruch",
+    "type": "word",
+    "filename": "409_Knochenbruch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/K740rmnD-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 410,
+    "word": "Kochen",
+    "type": "word",
+    "filename": "410_Kochen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wTw5Snhf-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 411,
+    "word": "Kollege",
+    "type": "word",
+    "filename": "411_Kollege.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BeXYLPeR-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 412,
+    "word": "Kommunismus",
+    "type": "word",
+    "filename": "412_Kommunismus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YFgaQZ4g-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 413,
+    "word": "Komprimieren",
+    "type": "word",
+    "filename": "413_Komprimieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/X0whDWU7-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 414,
+    "word": "Kompromiss",
+    "type": "word",
+    "filename": "414_Kompromiss.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/rROP6s2Z-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 415,
+    "word": "Konkurrenz",
+    "type": "word",
+    "filename": "415_Konkurrenz.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/N1MOUOwF-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 416,
+    "word": "Konkurrieren",
+    "type": "word",
+    "filename": "416_Konkurrieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hngviAdT-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 417,
+    "word": "Konservativ",
+    "type": "word",
+    "filename": "417_Konservativ.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/QPBtdSet-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 418,
+    "word": "Kontaktieren",
+    "type": "word",
+    "filename": "418_Kontaktieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/adcxHGTn-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 419,
+    "word": "Kontrolle",
+    "type": "word",
+    "filename": "419_Kontrolle.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/B42xqLV6-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 420,
+    "word": "Konzentrieren",
+    "type": "word",
+    "filename": "420_Konzentrieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wR0vUZTI-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 421,
+    "word": "Kopieren",
+    "type": "word",
+    "filename": "421_Kopieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/E1PxaSCb-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 422,
+    "word": "Korea",
+    "type": "word",
+    "filename": "422_Korea.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/X6q9mnxI-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 423,
+    "word": "Korrespondenz",
+    "type": "word",
+    "filename": "423_Korrespondenz.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/RXIeknrw-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 424,
+    "word": "Korrigieren",
+    "type": "word",
+    "filename": "424_Korrigieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XByZKONc-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 425,
+    "word": "Krampf",
+    "type": "word",
+    "filename": "425_Krampf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UkjF22lW-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 426,
+    "word": "Krankenhaus",
+    "type": "word",
+    "filename": "426_Krankenhaus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lL6rkgmR-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 427,
+    "word": "Krankenwagen",
+    "type": "word",
+    "filename": "427_Krankenwagen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GtbEOzVD-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 428,
+    "word": "Kroatien",
+    "type": "word",
+    "filename": "428_Kroatien.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/jBF8xdnd-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 429,
+    "word": "Kuba",
+    "type": "word",
+    "filename": "429_Kuba.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gucS8rmB-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 431,
+    "word": "Kuh",
+    "type": "word",
+    "filename": "431_Kuh.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Jlc7F5eM-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 432,
+    "word": "Kunde",
+    "type": "word",
+    "filename": "432_Kunde.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xQZ1GSrl-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 433,
+    "word": "Kur",
+    "type": "word",
+    "filename": "433_Kur.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qoTDC2z3-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 434,
+    "word": "Kuss",
+    "type": "word",
+    "filename": "434_Kuss.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4fQF2itw-xgdDoosc.mp4",
+    "license": "by-nc-sa/4.0"
+  },
+  {
+    "id": 435,
+    "word": "Laden",
+    "type": "word",
+    "filename": "435_Laden.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/G3C9F8LU-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 436,
+    "word": "Lamm",
+    "type": "word",
+    "filename": "436_Lamm.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/BhujyH1x-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 437,
+    "word": "Lange",
+    "type": "word",
+    "filename": "437_Lange.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/d9MI6VaF-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 439,
+    "word": "Langweilig",
+    "type": "word",
+    "filename": "439_Langweilig.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0ftwAekw-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 440,
+    "word": "Lauf",
+    "type": "word",
+    "filename": "440_Lauf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LIeYJXRA-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 441,
+    "word": "Laut",
+    "type": "word",
+    "filename": "441_Laut.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/DrcLWYY6-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 444,
+    "word": "Lehren",
+    "type": "word",
+    "filename": "444_Lehren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2ZjfMUff-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 445,
+    "word": "Lehrer",
+    "type": "word",
+    "filename": "445_Lehrer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3Jr6LROO-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 446,
+    "word": "Leichtathletik",
+    "type": "word",
+    "filename": "446_Leichtathletik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/X1NiRQiO-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 447,
+    "word": "Leistung",
+    "type": "word",
+    "filename": "447_Leistung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/7PaaRk9s-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 448,
+    "word": "Leiten",
+    "type": "word",
+    "filename": "448_Leiten.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Kj90DMy3-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 449,
+    "word": "Leitung",
+    "type": "word",
+    "filename": "449_Leitung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/B7qjzPNo-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 450,
+    "word": "Lernen",
+    "type": "word",
+    "filename": "450_Lernen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/PNKcuW8b-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 451,
+    "word": "Lesbisch",
+    "type": "word",
+    "filename": "451_Lesbisch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Uob5zMIK-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 454,
+    "word": "Linguistik",
+    "type": "word",
+    "filename": "454_Linguistik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/fxtuoiBp-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 455,
+    "word": "Link",
+    "type": "word",
+    "filename": "455_Link.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/rrDW1qCZ-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 456,
+    "word": "Linux",
+    "type": "word",
+    "filename": "456_Linux.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vQcnNY1s-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 457,
+    "word": "Lissabon",
+    "type": "word",
+    "filename": "457_Lissabon.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hZwvjhGY-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 458,
+    "word": "Literatur",
+    "type": "word",
+    "filename": "458_Literatur.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bqDYMeUi-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 459,
+    "word": "Locker",
+    "type": "word",
+    "filename": "459_Locker.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WFlUs9cd-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 461,
+    "word": "Lösung",
+    "type": "word",
+    "filename": "461_Lösung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/P5mDsMo8-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 462,
+    "word": "Lohn",
+    "type": "word",
+    "filename": "462_Lohn.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/QBLL4fJF-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 463,
+    "word": "London",
+    "type": "word",
+    "filename": "463_London.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Jqy9iwHC-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 464,
+    "word": "Löwe",
+    "type": "word",
+    "filename": "464_Löwe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/9WkYikhd-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 465,
+    "word": "Mac",
+    "type": "word",
+    "filename": "465_Mac.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8dNeXDT9-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 466,
+    "word": "Macau",
+    "type": "word",
+    "filename": "466_Macau.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/CIBzPMpk-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 467,
+    "word": "Machen",
+    "type": "word",
+    "filename": "467_Machen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/9DJC2Zjh-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 468,
+    "word": "Madrid",
+    "type": "word",
+    "filename": "468_Madrid.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/E7sdoWLV-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 469,
+    "word": "Mädchen",
+    "type": "word",
+    "filename": "469_Mädchen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NhvFF5iJ-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 470,
+    "word": "März",
+    "type": "word",
+    "filename": "470_März.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1DhmNN51-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 471,
+    "word": "Mai",
+    "type": "word",
+    "filename": "471_Mai.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Z498GPpL-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 472,
+    "word": "Mal",
+    "type": "word",
+    "filename": "472_Mal.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/MkKlRCki-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 474,
+    "word": "Maler",
+    "type": "word",
+    "filename": "474_Maler.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/RBvYZ9qX-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 475,
+    "word": "Mali",
+    "type": "word",
+    "filename": "475_Mali.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/3Y2Eelok-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 476,
+    "word": "Mama",
+    "type": "word",
+    "filename": "476_Mama.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lGvoUXue-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 477,
+    "word": "Mann",
+    "type": "word",
+    "filename": "477_Mann.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/eigNhi0T-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 478,
+    "word": "Marmelade",
+    "type": "word",
+    "filename": "478_Marmelade.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Fs7UMKeC-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 479,
+    "word": "Maschine",
+    "type": "word",
+    "filename": "479_Maschine.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cWsnj4r2-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 480,
+    "word": "Material",
+    "type": "word",
+    "filename": "480_Material.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WhdxcjN6-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 481,
+    "word": "Maus",
+    "type": "word",
+    "filename": "481_Maus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LgYZHDti-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 482,
+    "word": "Medikament",
+    "type": "word",
+    "filename": "482_Medikament.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/0YPXlCz2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 483,
+    "word": "Meer",
+    "type": "word",
+    "filename": "483_Meer.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4OYQi7EP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 485,
+    "word": "Meister",
+    "type": "word",
+    "filename": "485_Meister.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hYLW8NOI-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 486,
+    "word": "Messe",
+    "type": "word",
+    "filename": "486_Messe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xjcZxixH-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 487,
+    "word": "Mexiko",
+    "type": "word",
+    "filename": "487_Mexiko.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ifGB8eaM-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 488,
+    "word": "Mietwohnung",
+    "type": "word",
+    "filename": "488_Mietwohnung.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Ml3A2dAR-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 489,
+    "word": "Milch",
+    "type": "word",
+    "filename": "489_Milch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ofMZxECq-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 490,
+    "word": "Milliarde",
+    "type": "word",
+    "filename": "490_Milliarde.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8rqRIIPL-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 491,
+    "word": "Million",
+    "type": "word",
+    "filename": "491_Million.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/q64ud5m9-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 492,
+    "word": "Mimik",
+    "type": "word",
+    "filename": "492_Mimik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2BtMfpfh-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 493,
+    "word": "Minister",
+    "type": "word",
+    "filename": "493_Minister.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/DepMF3qu-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 495,
+    "word": "Missverstehen",
+    "type": "word",
+    "filename": "495_Missverstehen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NTHpWsC8-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 496,
+    "word": "Mitglied",
+    "type": "word",
+    "filename": "496_Mitglied.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ctCdAHSb-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 497,
+    "word": "Mittagessen",
+    "type": "word",
+    "filename": "497_Mittagessen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GiF2a12e-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 499,
+    "word": "Mittwoch",
+    "type": "word",
+    "filename": "499_Mittwoch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xSVb9Gjg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 500,
+    "word": "Monat",
+    "type": "word",
+    "filename": "500_Monat.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/a6EPlFb6-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 501,
+    "word": "Monate",
+    "type": "word",
+    "filename": "501_Monate.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wh6q4LNY-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 502,
+    "word": "Mond",
+    "type": "word",
+    "filename": "502_Mond.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TEvEou4J-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 503,
+    "word": "Mongolei",
+    "type": "word",
+    "filename": "503_Mongolei.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Zf2Mnc7I-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 504,
+    "word": "Monitor",
+    "type": "word",
+    "filename": "504_Monitor.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YSRXE1pk-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 505,
+    "word": "Montag",
+    "type": "word",
+    "filename": "505_Montag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Smeb9BK7-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 506,
+    "word": "Morgen",
+    "type": "word",
+    "filename": "506_Morgen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LMMYrq1N-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 507,
+    "word": "Morgen",
+    "type": "word",
+    "filename": "507_Morgen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1bif3Lvt-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 508,
+    "word": "Motivation",
+    "type": "word",
+    "filename": "508_Motivation.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/QSYqhYig-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 509,
+    "word": "Motorrad",
+    "type": "word",
+    "filename": "509_Motorrad.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/YYdKhAjH-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 510,
+    "word": "Motorrad fahren",
+    "type": "word",
+    "filename": "510_Motorrad_fahren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/IesMa1bg-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 511,
+    "word": "Multiplikation",
+    "type": "word",
+    "filename": "511_Multiplikation.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XzDxRWVj-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 512,
+    "word": "Museum",
+    "type": "word",
+    "filename": "512_Museum.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iwxDe4eb-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 513,
+    "word": "Muss nicht",
+    "type": "word",
+    "filename": "513_Muss_nicht.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/KGNfEhx4-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 514,
+    "word": "Mutter",
+    "type": "word",
+    "filename": "514_Mutter.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/J3DXT5fh-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 515,
+    "word": "München",
+    "type": "word",
+    "filename": "515_München.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/HqZuI5AF-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 517,
+    "word": "Myanmar",
+    "type": "word",
+    "filename": "517_Myanmar.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/47xuGXag-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 518,
+    "word": "Nach Hause",
+    "type": "word",
+    "filename": "518_Nach_Hause.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vtZe7imT-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 519,
+    "word": "Nachrichten",
+    "type": "word",
+    "filename": "519_Nachrichten.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bs5AFDmP-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 520,
+    "word": "Name",
+    "type": "word",
+    "filename": "520_Name.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UvIgW36g-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 521,
+    "word": "Nationalmannschaft",
+    "type": "word",
+    "filename": "521_Nationalmannschaft.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/NQye83VK-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 522,
+    "word": "Nationalsozialismus",
+    "type": "word",
+    "filename": "522_Nationalsozialismus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iCab6wQP-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 523,
+    "word": "Natur",
+    "type": "word",
+    "filename": "523_Natur.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WXVCXOGt-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 524,
+    "word": "Nehmen",
+    "type": "word",
+    "filename": "524_Nehmen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/zlP4cowd-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 525,
+    "word": "Nein",
+    "type": "word",
+    "filename": "525_Nein.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VWbhjrAH-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 526,
+    "word": "Nepal",
+    "type": "word",
+    "filename": "526_Nepal.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WEzm9HD1-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 528,
+    "word": "9",
+    "type": "word",
+    "filename": "528_9.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/4modeStP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 529,
+    "word": "New York",
+    "type": "word",
+    "filename": "529_New_York.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wwV01mXP-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 530,
+    "word": "Nicaragua",
+    "type": "word",
+    "filename": "530_Nicaragua.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WZ9iSQaM-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 531,
+    "word": "Nicht haben",
+    "type": "word",
+    "filename": "531_Nicht_haben.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/iQGq0gek-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 533,
+    "word": "Niederlande",
+    "type": "word",
+    "filename": "533_Niederlande.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/b8PwVHAE-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 534,
+    "word": "Nizza",
+    "type": "word",
+    "filename": "534_Nizza.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/LDOZdqaA-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 537,
+    "word": "Nomen",
+    "type": "word",
+    "filename": "537_Nomen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Xgac4Btu-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 538,
+    "word": "Nordkorea",
+    "type": "word",
+    "filename": "538_Nordkorea.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8fuYMwwm-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 539,
+    "word": "Norwegen",
+    "type": "word",
+    "filename": "539_Norwegen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/lsV9cfWj-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 540,
+    "word": "Notebook",
+    "type": "word",
+    "filename": "540_Notebook.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/uWONrDoY-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 541,
+    "word": "Notruf",
+    "type": "word",
+    "filename": "541_Notruf.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ihqXMYWB-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 542,
+    "word": "November",
+    "type": "word",
+    "filename": "542_November.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VQYMnQx2-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 543,
+    "word": "Nudeln",
+    "type": "word",
+    "filename": "543_Nudeln.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/njqrEhDX-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 544,
+    "word": "Obst",
+    "type": "word",
+    "filename": "544_Obst.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dJ2X8bGr-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 546,
+    "word": "Öffnen",
+    "type": "word",
+    "filename": "546_Öffnen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/kO8bd46f-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 547,
+    "word": "Ohne, nicht mehr",
+    "type": "word",
+    "filename": "547_Ohne,_nicht_mehr.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ntUzfQR3-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 548,
+    "word": "Ok",
+    "type": "word",
+    "filename": "548_Ok.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/L1fRluO8-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 549,
+    "word": "Oktober",
+    "type": "word",
+    "filename": "549_Oktober.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/j0SWFm9T-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 550,
+    "word": "Oma",
+    "type": "word",
+    "filename": "550_Oma.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/WSJyiNd9-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 551,
+    "word": "Onkel",
+    "type": "word",
+    "filename": "551_Onkel.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/8Ms7WUah-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 552,
+    "word": "Oovoo",
+    "type": "word",
+    "filename": "552_Oovoo.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/XIq8CvuH-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 553,
+    "word": "Opa",
+    "type": "word",
+    "filename": "553_Opa.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ADq5mvX8-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 554,
+    "word": "Orange",
+    "type": "word",
+    "filename": "554_Orange.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/fEY5SoqW-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 555,
+    "word": "Ordner",
+    "type": "word",
+    "filename": "555_Ordner.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/AQULowk2-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 556,
+    "word": "Oslo",
+    "type": "word",
+    "filename": "556_Oslo.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/L0isunBW-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 557,
+    "word": "Outlook Express",
+    "type": "word",
+    "filename": "557_Outlook_Express.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Pqsv2OBj-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 558,
+    "word": "Öl",
+    "type": "word",
+    "filename": "558_Öl.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/t3a49Sw0-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 559,
+    "word": "Österreich",
+    "type": "word",
+    "filename": "559_Österreich.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/qlzwyXo2-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 560,
+    "word": "Panama",
+    "type": "word",
+    "filename": "560_Panama.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1WMQ7o1a-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 561,
+    "word": "Papa",
+    "type": "word",
+    "filename": "561_Papa.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hDQNouOJ-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 562,
+    "word": "Paris",
+    "type": "word",
+    "filename": "562_Paris.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/quiOjgwa-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 563,
+    "word": "Parlament",
+    "type": "word",
+    "filename": "563_Parlament.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/GgJdwtI9-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 564,
+    "word": "Partei",
+    "type": "word",
+    "filename": "564_Partei.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vDjcw3FG-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 565,
+    "word": "Partner",
+    "type": "word",
+    "filename": "565_Partner.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aOtOVuQB-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 566,
+    "word": "Pause",
+    "type": "word",
+    "filename": "566_Pause.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/UTJq4szp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 567,
+    "word": "Personal",
+    "type": "word",
+    "filename": "567_Personal.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/2ZdJUAiE-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 568,
+    "word": "Pfannkuchen",
+    "type": "word",
+    "filename": "568_Pfannkuchen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/ys9nUyLj-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 570,
+    "word": "Pferd",
+    "type": "word",
+    "filename": "570_Pferd.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/VQK0r2iF-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 571,
+    "word": "Philippinen",
+    "type": "word",
+    "filename": "571_Philippinen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/jNAewhjd-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 572,
+    "word": "Photoshop",
+    "type": "word",
+    "filename": "572_Photoshop.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TV9JUh3g-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 573,
+    "word": "Pilot",
+    "type": "word",
+    "filename": "573_Pilot.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/cClUj5Bm-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 574,
+    "word": "Pinguin",
+    "type": "word",
+    "filename": "574_Pinguin.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/FVWweOJN-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 576,
+    "word": "Polen",
+    "type": "word",
+    "filename": "576_Polen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/yPbw1omd-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 577,
+    "word": "Politik",
+    "type": "word",
+    "filename": "577_Politik.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/T9D0ZNxh-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 578,
+    "word": "Politiker",
+    "type": "word",
+    "filename": "578_Politiker.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/kpwL6TFg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 579,
+    "word": "Politisch",
+    "type": "word",
+    "filename": "579_Politisch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/aUJgb7RR-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 580,
+    "word": "Porsche",
+    "type": "word",
+    "filename": "580_Porsche.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/d38POXMp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 581,
+    "word": "Portugal",
+    "type": "word",
+    "filename": "581_Portugal.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/SnIzdJJJ-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 583,
+    "word": "Poster",
+    "type": "word",
+    "filename": "583_Poster.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/xEEodhMF-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 584,
+    "word": "Power Point",
+    "type": "word",
+    "filename": "584_Power_Point.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gCc9guPg-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 585,
+    "word": "Prag",
+    "type": "word",
+    "filename": "585_Prag.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/eSfUCcJY-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 586,
+    "word": "Premiere",
+    "type": "word",
+    "filename": "586_Premiere.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/hOmX5bgx-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 587,
+    "word": "Presse",
+    "type": "word",
+    "filename": "587_Presse.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/QyqrSyaO-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 588,
+    "word": "Probe",
+    "type": "word",
+    "filename": "588_Probe.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/1cQ3kE3s-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 589,
+    "word": "probieren",
+    "type": "word",
+    "filename": "589_probieren.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Cc0MYePQ-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 590,
+    "word": "Produkt",
+    "type": "word",
+    "filename": "590_Produkt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/j2mV5YBe-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 591,
+    "word": "Produktion",
+    "type": "word",
+    "filename": "591_Produktion.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/deGctbX4-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 592,
+    "word": "Professor",
+    "type": "word",
+    "filename": "592_Professor.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/vVFg3Jm9-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 593,
+    "word": "Projekt",
+    "type": "word",
+    "filename": "593_Projekt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/11DMcZaj-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 594,
+    "word": "Prozent",
+    "type": "word",
+    "filename": "594_Prozent.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/tCksWQDp-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 595,
+    "word": "Puerto Rico",
+    "type": "word",
+    "filename": "595_Puerto_Rico.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/bL8pTqeg-cqrEIsCv.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 596,
+    "word": "Quatsch",
+    "type": "word",
+    "filename": "596_Quatsch.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/TKJS77T0-cqrEIsCv.mp4",
+    "license": "by-nc-sa/3.0/de"
+  },
+  {
+    "id": 597,
+    "word": "Rathaus",
+    "type": "word",
+    "filename": "597_Rathaus.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/gPy1oj5D-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 598,
+    "word": "Raum",
+    "type": "word",
+    "filename": "598_Raum.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/wpxM9jT4-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 599,
+    "word": "Rechenbaum",
+    "type": "word",
+    "filename": "599_Rechenbaum.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/dUYdYTEE-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 600,
+    "word": "Rechnen",
+    "type": "word",
+    "filename": "600_Rechnen.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/KgPhM3G9-3uRaWXX3.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 601,
+    "word": "Rechtsanwalt",
+    "type": "word",
+    "filename": "601_Rechtsanwalt.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/Y3SBEE03-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  },
+  {
+    "id": 602,
+    "word": "Rechtsschutz",
+    "type": "word",
+    "filename": "602_Rechtsschutz.mp4",
+    "video_url": "https://assets.wishlephant.com/signdict/videos/g2fsHzyD-xgdDoosc.mp4",
+    "license": "by-sa/3.0/de"
+  }
+]
