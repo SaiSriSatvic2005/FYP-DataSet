@@ -100,3 +100,10 @@ This dataset collection is released under the **Creative Commons Attribution-Non
   * **SignDict DGS**: [SignDict.org](https://signdict.org/) (CC BY-SA 3.0 DE).
   * **WLASL Dataset**: Li et al., *"Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison"*, WACV 2020.
   * **ISL Corpus**: Transcribed and curated for the Avatar-Generator-FYP Research Project.
+
+---
+
+## 👥 Authors & Contributors
+
+* **Sai Sri Satvic** ([@SaiSriSatvic2005](https://github.com/SaiSriSatvic2005))
+* **Vivin Rakul** ([@vivin888](https://github.com/vivin888))
